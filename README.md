@@ -1,5 +1,3 @@
-## 👋 I'm Matt
-
 I’m a passionate technologist who loves building, exploring, and pushing the limits of both software and hardware. Whether it's cloud infrastructure, networking, or powerful automation scripts, I'm all about creating solutions that work seamlessly across environments.
 
 ### 🔭 What I’m working on:
