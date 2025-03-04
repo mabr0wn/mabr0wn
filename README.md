@@ -26,7 +26,7 @@ I’m a passionate technologist who loves building, exploring, and pushing the l
 - How to keep your desktop PC or lab clean and running like a dream 🧼 💻.
 
 ### 📫 How to reach me:
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mabr0wn) or [Twitter](https://twitter.com/mabr0wn).
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mabr0wn) or [X](https://twitter.com/mabr0wn).
 
 ### ⚡ Fun fact:
 - My pet Bruno loves Ollie’s turkey and blueberry food, and I enjoy running long distances—just hit 97 miles last month! 🏃‍♂️🐾
