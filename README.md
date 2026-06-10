@@ -1,93 +1,187 @@
-# 👋 Hi, I’m Matt
+# 👋 Hello World, I'm Matt Brown
 
-I’m a passionate technologist who loves building, exploring, and pushing the limits of both **software and hardware**. Whether it’s cloud infrastructure, networking, or powerful automation scripts, I focus on creating systems that are **clean, scalable, and actually work in the real world**.
+```python
+class MattBrown:
 
----
+    role = [
+        "Cloud Engineer",
+        "Infrastructure Builder",
+        "Network Architect",
+        "AI Systems Researcher"
+    ]
 
-## 🔭 What I’m Working On
+    current_focus = [
+        "Azure Infrastructure",
+        "DevOps Automation",
+        "AI Agent Platforms",
+        "Distributed Inference",
+        "Enterprise Networking"
+    ]
 
-* **Azure Infrastructure Engineering**
-  Designing and deploying robust Azure environments using **Bicep**, **PowerShell**, and CLI-driven automation. Focused on repeatability, security, and clarity over click-ops.
+    technologies = {
+        "cloud": ["Azure", "Terraform", "Bicep"],
+        "automation": ["PowerShell", "Python", "GitHub Actions"],
+        "networking": ["Cisco", "VyOS", "pfSense", "SD-WAN"],
+        "virtualization": ["Proxmox", "Docker", "Kubernetes"],
+        "ai": ["LLMs", "Ollama", "AI Agents", "GPU Infrastructure"]
+    }
 
-* **Advanced Networking & Lab Architecture**
-  Building and optimizing segmented networks with VLANs, routing, firewall policy design, and performance tuning across on‑prem, hybrid, and cloud environments.
+    pet_assistant = "Bruno 🐾"
 
-* **Tech Meets Creativity**
-  Personal projects that blend infrastructure, automation, AI tooling, and creative problem‑solving to tackle real‑world use cases—not demos that live only on slides.
-
----
-
-## 🌱 What I’m Learning
-
-* **Azure DevOps & CI/CD**
-  Deepening hands‑on experience with pipelines, GitHub Actions, and infrastructure‑as‑code workflows.
-
-* **Cloud & Hybrid Security**
-  Applying security best practices across hybrid environments: identity, networking controls, segmentation, and policy enforcement at scale.
-
-* **Hardware & Workflow Optimization**
-  Constantly experimenting with lab hardware, GPUs, storage, and workflows to squeeze out better performance and reliability.
-
----
-
-## 👯 Looking to Collaborate On
-
-* **Open‑Source Networking & Automation Tools**
-  Especially projects involving cloud automation, infrastructure management, or network observability.
-
-* **Cloud Infrastructure & DevOps Projects**
-  Azure, hybrid environments, CI/CD pipelines, or systems engineering work.
-
-* **Tech‑Driven Creative Builds**
-  Smart environments, AI‑powered automation, or anything that blends engineering with creativity.
+    def say_hi():
+        return "Building cool things one packet at a time."
+```
 
 ---
 
-## 🤔 Looking for Help With
+## 🚀 Current Projects
 
-* **Scaling Complex Cloud & Hybrid Environments**
-  Especially advanced networking designs and multi‑environment architectures.
+### 🤖 Distributed AI Platform
 
-* **Security Automation**
-  Automating security standards, policy enforcement, and compliance controls in cloud environments.
+Building a multi-node AI ecosystem focused on:
+
+* Agent orchestration
+* Local LLM inference
+* Distributed workloads
+* Autonomous workflows
+* Research environments
+* GPU-backed compute clusters
+
+---
+
+### ☁️ Azure Infrastructure Engineering
+
+Designing and deploying enterprise-grade Azure environments using:
+
+* Bicep
+* Terraform
+* Azure CLI
+* PowerShell
+* GitHub Actions
+
+Infrastructure as Code > Click Ops
+
+---
+
+### 🌐 Advanced Networking & Hybrid Architecture
+
+Designing and operating:
+
+* VLAN segmentation
+* Firewall zones
+* SD-WAN topologies
+* Site-to-site connectivity
+* Enterprise routing
+* Hybrid cloud networking
+
+---
+
+## 🧰 Tech Stack
+
+### Cloud & Infrastructure
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform\&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-4B53BC?logo=microsoftazure\&logoColor=white)
+
+### Automation
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions\&logoColor=white)
+
+### Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco\&logoColor=white)
+![VyOS](https://img.shields.io/badge/VyOS-EF7B4D)
+![pfSense](https://img.shields.io/badge/pfSense-212121)
+
+### AI & Containers
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes\&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mabr0wn\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mabr0wn\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🧪 Research Interests
+
+* AI Agent Architectures
+* Distributed AI Systems
+* Local LLM Infrastructure
+* Quantum Computing Concepts
+* Network Observability
+* Infrastructure Automation
+* Hybrid Cloud Security
+
+---
+
+## 🌱 Currently Learning
+
+```bash
+$ learning --show
+
+✓ Azure DevOps
+✓ Enterprise CI/CD
+✓ Advanced Cloud Security
+✓ AI Infrastructure Engineering
+✓ Distributed Systems
+✓ Quantum Computing
+```
 
 ---
 
 ## 💬 Ask Me About
 
-* Networking, cloud architecture, and automating repetitive tasks with **PowerShell**.
-* How to keep your desktop PC or home lab **clean, organized, and running like a dream** 🧼💻
+```yaml
+cloud:
+  - Azure
+  - Infrastructure as Code
+  - Automation
 
----
+networking:
+  - Routing
+  - VLANs
+  - Firewalls
+  - SD-WAN
 
-## 📫 How to Reach Me
+homelab:
+  - Proxmox
+  - Docker
+  - GPU Servers
+  - Monitoring
 
-* **LinkedIn:** [https://www.linkedin.com/in/mabr0wn](https://www.linkedin.com/in/mabr0wn)
-* **X:** [https://twitter.com/mabr0wn](https://twitter.com/mabr0wn)
-
----
-
-## 🤖 Advanced Systems & Research Focus
-
-* **AI Architecture & Infrastructure**
-  Designing and operating a multi-tier AI environment spanning edge devices, GPU-backed inference nodes, and core servers. Focus areas include local LLM inference, distributed workloads, model orchestration, and performance-aware resource placement.
-
-* **SD-WAN & Network Design**
-  Building and simulating SD-WAN topologies with segmented control, transport, and service planes. Emphasis on routing correctness, policy-driven traffic flow, fault isolation, and real-world enterprise-style designs.
-
-* **Network Infrastructure & Servers**
-  Hands-on with enterprise-grade servers, storage, and virtualization stacks. Designing layered network fabrics, VLAN segmentation, firewall zones, and hybrid connectivity between on‑prem and cloud environments.
-
-* **Quantum Computing Exploration**
-  Simulating quantum circuits and **quantum entanglement** using tools like Qiskit to understand information theory limits, Bell states, and how quantum concepts intersect with future communication and security models.
+ai:
+  - Local LLMs
+  - Agent Systems
+  - AI Infrastructure
+```
 
 ---
 
 ## 🐾 Fun Fact
 
-* My dog **Bruno** is usually nearby while I’m building labs, wiring racks, or breaking (and fixing) things.
+Most of my infrastructure is built with Bruno supervising from a nearby dog bed.
+
+Quality assurance is questionable.
+Morale support is exceptional.
 
 ---
 
-If you’re building something interesting in cloud, networking, AI infrastructure, or advanced systems research—let’s talk.
+## 📫 Connect
 
+* LinkedIn: https://linkedin.com/in/mabr0wn
+* X: https://twitter.com/mabr0wn
+
+---
+
+> "Infrastructure should be automated. Networks should be predictable. AI should run where you control it."
