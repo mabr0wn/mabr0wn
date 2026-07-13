@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Matt Brown
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mabr0wn&theme=dark)](https://git.io/streak-stats)
 
 ```python
 class MattBrown:
@@ -110,8 +110,6 @@ Designing and operating:
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mabr0wn\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mabr0wn\&layout=compact\&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mabr0wn&theme=dark)](https://git.io/streak-stats)
 
 ---
 
