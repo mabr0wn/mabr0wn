@@ -1,5 +1,6 @@
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mabr0wn&theme=dark)](https://git.io/streak-stats)
-
+-->
 ```python
 class MattBrown:
 
