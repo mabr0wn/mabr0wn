@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 140" role="img" aria-label="Engineering stack: Network to Infrastructure to Automation to Compute to AI">
+  <defs>
+    <linearGradient id="glow-light" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0969DA"/>
+      <stop offset="50%" stop-color="#218BFF"/>
+      <stop offset="100%" stop-color="#8250DF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="820" height="140" rx="12" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" text-anchor="middle">
+    <g transform="translate(70, 70)">
+      <rect x="-52" y="-28" width="104" height="56" rx="8" fill="#ffffff" stroke="#0969DA" stroke-width="1.5"/>
+      <text y="-4" fill="#0969DA" font-size="11" font-weight="600" letter-spacing="1">NETWORK</text>
+      <text y="14" fill="#656d76" font-size="9">VLAN · SD-WAN</text>
+    </g>
+
+    <path d="M 128 70 L 152 70" stroke="url(#glow-light)" stroke-width="2" fill="none"/>
+    <polygon points="152,70 146,66 146,74" fill="#0969DA"/>
+
+    <g transform="translate(230, 70)">
+      <rect x="-62" y="-28" width="124" height="56" rx="8" fill="#ffffff" stroke="#0969DA" stroke-width="1.5"/>
+      <text y="-4" fill="#0969DA" font-size="11" font-weight="600" letter-spacing="1">INFRASTRUCTURE</text>
+      <text y="14" fill="#656d76" font-size="9">Azure · IaC</text>
+    </g>
+
+    <path d="M 298 70 L 322 70" stroke="url(#glow-light)" stroke-width="2" fill="none"/>
+    <polygon points="322,70 316,66 316,74" fill="#0969DA"/>
+
+    <g transform="translate(400, 70)">
+      <rect x="-58" y="-28" width="116" height="56" rx="8" fill="#ffffff" stroke="#218BFF" stroke-width="1.5"/>
+      <text y="-4" fill="#218BFF" font-size="11" font-weight="600" letter-spacing="1">AUTOMATION</text>
+      <text y="14" fill="#656d76" font-size="9">CI/CD · Scripts</text>
+    </g>
+
+    <path d="M 462 70 L 486 70" stroke="url(#glow-light)" stroke-width="2" fill="none"/>
+    <polygon points="486,70 480,66 480,74" fill="#218BFF"/>
+
+    <g transform="translate(564, 70)">
+      <rect x="-52" y="-28" width="104" height="56" rx="8" fill="#ffffff" stroke="#8250DF" stroke-width="1.5"/>
+      <text y="-4" fill="#8250DF" font-size="11" font-weight="600" letter-spacing="1">COMPUTE</text>
+      <text y="14" fill="#656d76" font-size="9">K8s · GPU</text>
+    </g>
+
+    <path d="M 620 70 L 644 70" stroke="url(#glow-light)" stroke-width="2" fill="none"/>
+    <polygon points="644,70 638,66 638,74" fill="#8250DF"/>
+
+    <g transform="translate(730, 70)">
+      <rect x="-42" y="-28" width="84" height="56" rx="8" fill="#ffffff" stroke="#8250DF" stroke-width="1.5"/>
+      <text y="-4" fill="#8250DF" font-size="11" font-weight="600" letter-spacing="1">AI</text>
+      <text y="14" fill="#656d76" font-size="9">Agents · LLMs</text>
+    </g>
+  </g>
+</svg>
