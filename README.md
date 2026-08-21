@@ -6,7 +6,7 @@
 
 `Building infrastructure from the network layer to the AI layer.`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Designing+cloud+infrastructure;Automating+everything+possible;Building+distributed+AI+systems;Running+LLMs+on+my+own+infrastructure;Engineering+networks+that+behave;Breaking+the+homelab+so+production+doesn%27t+break&center=true&width=600&height=30&color=58A6FF&vCenter=true&pause=2500&random=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Designing+cloud+infrastructure;Automating+everything+possible;Building+distributed+intelligence;Engineering+local-first+AI+systems;Engineering+networks+that+behave;Breaking+the+homelab+so+production+doesn%27t+break&center=true&width=600&height=30&color=58A6FF&vCenter=true&pause=2500&random=false)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,13 +38,51 @@ BUILDING
 
 ### 🤖 Distributed AI Platform
 
-> A multi-node AI environment spanning the full stack — from GPU-backed compute to autonomous agent workflows.
+> Building a local-first distributed intelligence platform spanning reasoning, memory, agents, perception, automation, and heterogeneous compute.
 
-| Layer | Focus |
+This is the top of the stack: intelligence running on networks, infrastructure, automation, and compute I design and operate.
+
+> AI shouldn't just generate answers. It should perceive, remember, reason, coordinate, and act.
+
+<img src="assets/ai-system-pulse.svg" alt="Conceptual intelligence flow: Perception → Memory → Reasoning → Agents → Action across local, GPU, edge, and cloud compute" width="100%">
+
+| Capability | What I'm exploring |
 | :--- | :--- |
-| **Orchestration** | Agent frameworks, autonomous workflows, distributed workloads |
-| **Inference** | Local LLM deployment, distributed inference pipelines |
-| **Compute** | GPU infrastructure, multi-node clusters, research environments |
+| **Distributed Intelligence** | Multi-node inference and workload coordination |
+| **Agent Systems** | Governed autonomous workflows and specialized AI agents |
+| **Memory & Knowledge** | Persistent knowledge, evidence grounding, and confidence-aware retrieval |
+| **AI Compute** | Heterogeneous GPU-backed local inference with controlled cloud augmentation |
+| **Perception** | Computer vision and event-driven environmental awareness |
+| **Automation** | Connecting AI decisions to infrastructure and operational workflows |
+| **Continuous Improvement** | Evaluation, learning feedback, and governed capability evolution |
+| **Embodied AI** | Exploring vision-guided robotic interaction and physical task execution |
+
+```text
+AI PLATFORM  //  ACTIVE DEVELOPMENT  —  project areas, not live telemetry
+
+● Distributed Compute
+● Agent Orchestration
+● Persistent Memory
+● Evidence Grounding
+● Computer Vision
+● Infrastructure Automation
+◌ Embodied AI Research
+```
+
+<details>
+<summary>Under the hood — architectural principles, not a deployment map</summary>
+
+<br>
+
+- Local-first inference, with policy-controlled cloud augmentation when it earns its place
+- Distributed compute across heterogeneous nodes rather than a single model host
+- Persistent memory and evidence-grounded retrieval — not a stateless chat loop
+- Governed agent orchestration instead of unconstrained autonomy
+- Event-driven automation that can connect reasoning to infrastructure workflows
+- Perception and embodied experimentation as research, not assumed production
+- Evaluation-driven improvement so capabilities evolve under control
+
+</details>
 
 ---
 
@@ -98,11 +136,12 @@ Designing and operating hybrid environments where cloud and on-prem infrastructu
 ```text
 CURRENTLY
 
-▸ Building distributed AI infrastructure
-▸ Engineering Azure automation
-▸ Expanding hybrid networking
-▸ Experimenting with local inference
-▸ Learning distributed systems
+▸ Building distributed intelligence infrastructure
+▸ Engineering governed AI agent workflows
+▸ Developing persistent AI memory systems
+▸ Experimenting with vision and embodied AI
+▸ Automating Azure and hybrid infrastructure
+▸ Expanding distributed compute
 ```
 
 ---
